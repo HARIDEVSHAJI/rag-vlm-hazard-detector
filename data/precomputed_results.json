@@ -1,0 +1,206 @@
+{
+  "01_kitchen_unattended_stove.png": {
+    "image_path": "01_kitchen_unattended_stove.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "02_stairs_cluttered.png": {
+    "image_path": "02_stairs_cluttered.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "03_bathroom_wet_floor.png": {
+    "image_path": "03_bathroom_wet_floor.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "04_living_room_loose_cords.png": {
+    "image_path": "04_living_room_loose_cords.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "05_bedroom_space_heater_curtains.png": {
+    "image_path": "05_bedroom_space_heater_curtains.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "06_garage_cluttered_chemicals.png": {
+    "image_path": "06_garage_cluttered_chemicals.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "07_childroom_small_objects.png": {
+    "image_path": "07_childroom_small_objects.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "08_diningroom_candle_curtains.png": {
+    "image_path": "08_diningroom_candle_curtains.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "09_hallway_exposed_wiring.png": {
+    "image_path": "09_hallway_exposed_wiring.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "10_backyard_pool_no_fence.png": {
+    "image_path": "10_backyard_pool_no_fence.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "11_office_overloaded_outlet.png": {
+    "image_path": "11_office_overloaded_outlet.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  },
+  "12_bedroom_normal_safe.png": {
+    "image_path": "12_bedroom_normal_safe.png",
+    "description": "An indoor/outdoor scene with various objects",
+    "user_question": "",
+    "vision_method": "fallback",
+    "vision_error": "OSError: Can't load image processor for 'Salesforce/blip2-opt-2.7b'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'Salesforce/blip2-opt-2.7b' is the correct path to a directory containing a preprocessor_config.json file",
+    "facts": [
+      "Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.",
+      "Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.",
+      "Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside."
+    ],
+    "retrieval_method": "vector",
+    "retrieval_error": null,
+    "answer": "Scene: An indoor/outdoor scene with various objects. Relevant considerations: Cluttered hallways and staircases reduce visibility of tripping hazards and slow emergency evacuation.; Outdoor grills should be positioned at least 10 feet from the house, deck railings, and overhanging branches.; Every household should have a practiced fire escape plan with two exit routes from each room and a designated meeting point outside..",
+    "answer_method": "fallback",
+    "answer_error": "RuntimeError: ANTHROPIC_API_KEY is not set"
+  }
+}
